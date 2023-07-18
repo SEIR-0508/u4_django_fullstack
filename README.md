@@ -22,4 +22,9 @@ You will need :
 - At least 4 Back end paths (Index and Show of Venues and Events at each venue)
 - A functioning SPA built with React, or with Django Views
 - A front-end Router that has a landing page with each Venue, with clickable links to see the individal shows belonging to each
-- At least 1 additional route of Create, Update, or Delete for at least 1 of your models
+- At least 1 additional route of Create, Update, or Delete for at least 1 of your models in your Front and Back end
+- Clean professional styling
+
+## Presentations
+
+Each group will present their projects Friday July 21 beginning at 11AM EST

@@ -1,6 +1,6 @@
 ## SEIR 0508 
 
-# Tick-It - the Django Full Stack Event App
+# Tick-iT - the Django Full Stack Event App
 
 With our Django REST API lab done we have completed all of the lessons for our cohort. By now you are hopefully thinking of what you'd like to build for your Capstone project, both in the content of the project, and which frameworks you want to use to build it up. We have seen the steps required to set up a Convential Relational Database using Python, and using the REST Framework app to convert it into JSON data. It may seem simple at first, but there are a lot of steps that can make it more difficult than you may think.
 

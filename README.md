@@ -19,6 +19,3 @@ You will need :
 - A functioning SPA built with React, or with Django Views
 - A front-end Router that has a landing page with each Venue, with clickable links to see the individal shows belonging to each
 - At least 1 additional route of Create, Update, or Delete for at least 1 of your models
-
-
-We will be presenting our projects Thursday 4/6 11AM EST
